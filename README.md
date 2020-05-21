@@ -29,7 +29,7 @@ A demonstration of the VSTs can be found [here](https://www.youtube.com/watch?v=
 
 ### HOW IT WORKS
 
-Taking audio input the RM-1 blends the signal controlled by each mix dial with a sine and/or triangle waveform. The mix is done as the modulating signal is added to the original signal. Similarly, each waveform is controlled by the parameters rate dial which is multiplied by the phase to create the effect.
+Taking audio input, the RM-1 blends the signal controlled by each mix dial with a sine and/or triangle waveform. The mix is done as the modulating signal is added to the original signal. Similarly, each waveform is controlled by the parameters rate dial which is multiplied by the phase to create the effect.
 
 The processing for this is achieved in the processBlock (PluginProcessor.cpp) where the mix and waveform amount are called by each parameters valuetree. The valueTree for each parameter ties the required parameter with the respective GUI control. In addition, the inclusion and state of the I/O button gives the user the option to either use the VST or bypass it in their signal chain as per their use. This is typical of how a stompbox FX on/off would work.
 
