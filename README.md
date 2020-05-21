@@ -4,10 +4,13 @@ This plugin simulates a ring modulator with two wavelengths at the users disposa
 
 ### INSTALLATION
 
-  -To install & use, place the VST file into the plugin directory of your chosen DAW.
-  -In your chosen DAW, add the VST to your signal chain.
-  -Set your parameters and play!
-  -NOTE: Some DAWs may require you to refresh the VST path before using.
+To install & use, place the VST file into the plugin directory of your chosen DAW.
+
+In your chosen DAW, add the VST to your signal chain.
+
+Set your parameters and play!
+
+NOTE: Some DAWs may require you to refresh the VST path before using.
 
 ### GENERAL
 
