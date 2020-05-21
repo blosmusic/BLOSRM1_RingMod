@@ -40,7 +40,7 @@ This project was developed under the [General Public License (GNU)](https://www.
 
 ### ACKNOWLEDGEMENTS
 
-These VSTs were developed for submission as part of a submission for the Masters in Music Technology in Dundalk Institute of Technology, Ireland.
+These VSTs were developed for submission as part of a submission for the [Masters in Music Technology](https://www.dkit.ie/courses/school-of-informatics-and-creative-arts/creative-arts-media-and-music/ma/msc-in-music-technology.html) in Dundalk Institute of Technology, Ireland.
 
 Special thanks to the courses lecturer Rory Walsh for his help & input.
 
